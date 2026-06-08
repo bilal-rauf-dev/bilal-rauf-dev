@@ -6,7 +6,7 @@
 
 ### Full-Stack Developer &nbsp;·&nbsp; CS Student @ FAST NUCES
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&pause=1200&color=3B82F6&center=true&vCenter=true&width=600&lines=Building+production-grade+software+since+year+one.;Next.js+%7C+FastAPI+%7C+PostgreSQL+%7C+React.;Open+to+internships.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&pause=1200&color=3B82F6&center=true&vCenter=true&width=600&lines=Building+web+applications%2C+APIs%2C+and+AI+projects.;Next.js+%7C+FastAPI+%7C+PostgreSQL+%7C+React.;Open+to+internships.)](https://git.io/typing-svg)
 
 <br/>
 
@@ -18,26 +18,41 @@
 
 <br/>
 
-I'm a 2nd-year CS student at FAST NUCES (CGPA 3.47) building full-stack software since my first year. My work spans relational database design, REST API architecture, and deployed React frontends — not just tutorials.
+I'm a 2nd-year CS student at FAST NUCES with a CGPA of 3.47, focused on full-stack development, backend engineering, databases, and applied AI. I enjoy building complete systems that connect clean user interfaces with practical APIs and reliable database design.
 
 <br/>
 
 ## Featured Projects
 
 ### [Hostel-Hub](https://github.com/bilal-rauf-dev/hostel-hub) · [Live](https://hostel-hub-ten.vercel.app)
+
 `Next.js` `FastAPI` `PostgreSQL` `TailwindCSS` `JWT`
 
-Full-stack hostel community platform — 37 REST endpoints, 15-table schema with stored procedures & triggers, OTP auth, role-based access for students and admins.
+Full-stack hostel management platform featuring marketplace, maintenance tickets, events, lost & found, community discussions, notifications, and role-based administration. Built with a PostgreSQL backend using stored procedures, functions, and triggers to enforce business logic and automate workflows.
 
-### [Tidyline](https://github.com/bilal-rauf-dev/tidyline-web) · [Live](https://tidyline.vercel.app)
-`React` `Vite` `JavaScript`
+### [TaskFlow API](https://github.com/bilal-rauf-dev/taskflow-api)
 
-Deadline-focused task manager with smart grouping (Today / This Week / This Month / Later) and multiple reminders per task.
+`FastAPI` `Python` `PostgreSQL` `REST API` `JWT`
 
-### [AI Search & Reasoning Projects](https://github.com/bilal-rauf-dev)
-`Python` `Flask` `Pygame`
+Backend task-management API built using FastAPI and PostgreSQL. Implemented authentication, authorization, CRUD operations, database relationships, input validation, and RESTful endpoints. Demonstrates backend architecture, API design, and database integration skills.
 
-BFS, DFS, A\*, Minimax, Alpha-Beta Pruning, AC-3 CSP, and a Wumpus World logic agent — all with interactive visualizations.
+### [Stack Sense](https://github.com/Build-with-AI-FAST-CFD-26/ai-hackathon-submission-bz-force) · [Live](https://stack-sense.web.app)
+
+`AI` `Firebase` `Google Cloud` `Web Development`
+
+Built during a 24-hour Build with AI Hackathon where our team placed 5th overall. Developed and deployed an AI-powered application using Google's AI ecosystem, collaborating in a fast-paced team environment while delivering a functional product under strict time constraints.
+
+<br/>
+
+## AI & Algorithms
+
+| Project | Concepts |
+|---|---|
+| [Wumpus Logic Agent](https://github.com/bilal-rauf-cfd/wumpus-logic-agent) | Knowledge base, logical inference, propositional reasoning |
+| [Sudoku CSP Solver](https://github.com/bilal-rauf-cfd/Sudoku-CSP) | Backtracking, MRV, LCV, Degree Heuristic, Forward Checking, AC-3 |
+| [Tic-Tac-Toe Alpha-Beta](https://github.com/bilal-rauf-cfd/TicTacToe-AlphaBetaPruning) | Minimax, Alpha-Beta Pruning, adversarial search |
+| [Dynamic Pathfinding Agent](https://github.com/bilal-rauf-cfd/Dynamic-Pathfinding-Agent) | BFS, DFS, UCS, A*, RBFS, dynamic obstacles |
+| [AI Pathfinder](https://github.com/bilal-rauf-cfd/AI-Pathfinder) | Search algorithm visualization, interactive GUI |
 
 <br/>
 
@@ -50,7 +65,9 @@ BFS, DFS, A\*, Minimax, Alpha-Beta Pruning, AC-3 CSP, and a Wumpus World logic a
 ![Python](https://img.shields.io/badge/Python-0f172a?style=flat-square&logo=python&logoColor=3776AB)&nbsp;
 ![C++](https://img.shields.io/badge/C++-0f172a?style=flat-square&logo=cplusplus&logoColor=00599C)&nbsp;
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-0f172a?style=flat-square&logo=tailwindcss&logoColor=38BDF8)&nbsp;
-![Git](https://img.shields.io/badge/Git-0f172a?style=flat-square&logo=git&logoColor=F05032)
+![Git](https://img.shields.io/badge/Git-0f172a?style=flat-square&logo=git&logoColor=F05032)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-0f172a?style=flat-square&logo=typescript&logoColor=3178C6)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-0f172a?style=flat-square&logo=javascript&logoColor=F7DF1E)
 
 <br/>
 
@@ -59,7 +76,7 @@ BFS, DFS, A\*, Minimax, Alpha-Beta Pruning, AC-3 CSP, and a Wumpus World logic a
 | | |
 |---|---|
 | Bronze Medal | Academic Excellence — FAST NUCES Fall 2025 |
-| 5th Place | GDGoC 24-Hour AI Hackathon — built & deployed *Stack Sense* |
+| 5th Place | GDGoC 24-Hour AI Hackathon — built & deployed Stack Sense |
 | CGPA 3.47 | 4th Semester |
 
 <br/>
