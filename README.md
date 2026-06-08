@@ -66,10 +66,6 @@ BFS, DFS, A\*, Minimax, Alpha-Beta Pruning, AC-3 CSP, and a Wumpus World logic a
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=bilal-rauf-dev&show_icons=true&theme=github_dark&hide_border=true&bg_color=0f172a&title_color=3B82F6&icon_color=3B82F6&text_color=94a3b8&ring_color=3B82F6" />&nbsp;&nbsp;<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilal-rauf-dev&layout=compact&theme=github_dark&hide_border=true&bg_color=0f172a&title_color=3B82F6&text_color=94a3b8&langs_count=5" />
-
-<br/><br/>
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=bilal-rauf-dev&theme=github-dark-blue&hide_border=true&background=0f172a&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&sideLabels=94a3b8&dates=94a3b8)](https://git.io/streak-stats)
 
 <br/>
