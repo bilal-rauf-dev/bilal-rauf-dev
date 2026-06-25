@@ -10,7 +10,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=3B82F6)](https://bilal-rauf.vercel.app)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=3B82F6)]([https://bilal-rauf.vercel.app](https://bilal-rauf-dev.github.io/Bilal-Rauf))&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=3B82F6)](https://linkedin.com/in/bilal-rauf-dev)&nbsp;
 [![Email](https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=3B82F6)](mailto:bilal.rauf2004@outlook.com)
 
