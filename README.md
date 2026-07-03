@@ -2,8 +2,6 @@
 
 <br/>
 
-# Bilal Rauf
-
 ### Full-Stack Developer &nbsp;·&nbsp; CS Student @ FAST NUCES
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&pause=1200&color=3B82F6&center=true&vCenter=true&width=600&lines=Building+web+applications%2C+APIs%2C+and+AI+projects.;Next.js+%7C+FastAPI+%7C+PostgreSQL+%7C+React.;Open+to+internships.)](https://git.io/typing-svg)
@@ -18,7 +16,7 @@
 
 <br/>
 
-I'm a 2nd-year CS student at FAST NUCES with a CGPA of 3.47, focused on full-stack development, backend engineering, databases, and applied AI. I enjoy building complete systems that connect clean user interfaces with practical APIs and reliable database design.
+I'm a 2nd-year CS student at FAST NUCES with a CGPA of 3.53, focused on full-stack development, backend engineering, databases, and applied AI. I enjoy building complete systems that connect clean user interfaces with practical APIs and reliable database design.
 
 <br/>
 
@@ -44,18 +42,6 @@ Built during a 24-hour Build with AI Hackathon where our team placed 5th overall
 
 <br/>
 
-## AI & Algorithms
-
-| Project | Concepts |
-|---|---|
-| [Wumpus Logic Agent](https://github.com/bilal-rauf-cfd/wumpus-logic-agent) | Knowledge base, logical inference, propositional reasoning |
-| [Sudoku CSP Solver](https://github.com/bilal-rauf-cfd/Sudoku-CSP) | Backtracking, MRV, LCV, Degree Heuristic, Forward Checking, AC-3 |
-| [Tic-Tac-Toe Alpha-Beta](https://github.com/bilal-rauf-cfd/TicTacToe-AlphaBetaPruning) | Minimax, Alpha-Beta Pruning, adversarial search |
-| [Dynamic Pathfinding Agent](https://github.com/bilal-rauf-cfd/Dynamic-Pathfinding-Agent) | BFS, DFS, UCS, A*, RBFS, dynamic obstacles |
-| [AI Pathfinder](https://github.com/bilal-rauf-cfd/AI-Pathfinder) | Search algorithm visualization, interactive GUI |
-
-<br/>
-
 ## Stack
 
 ![Next.js](https://img.shields.io/badge/Next.js-0f172a?style=flat-square&logo=nextdotjs&logoColor=white)&nbsp;
@@ -71,22 +57,10 @@ Built during a 24-hour Build with AI Hackathon where our team placed 5th overall
 
 <br/>
 
-## Highlights
-
-| | |
-|---|---|
-| Bronze Medal | Academic Excellence — FAST NUCES Fall 2025 |
-| 5th Place | GDGoC 24-Hour AI Hackathon — built & deployed Stack Sense |
-| CGPA 3.47 | 4th Semester |
-
-<br/>
-
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=bilal-rauf-dev&theme=github-dark-blue&hide_border=true&background=0f172a&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&sideLabels=94a3b8&dates=94a3b8)](https://git.io/streak-stats)
 
 <br/>
-
-*Open to internships — remote or Lahore/on-site.*
 
 </div>
