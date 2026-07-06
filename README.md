@@ -57,10 +57,4 @@ Built during a 24-hour Build with AI Hackathon where our team placed 5th overall
 
 <br/>
 
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=bilal-rauf-dev&theme=github-dark-blue&hide_border=true&background=0f172a&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&sideLabels=94a3b8&dates=94a3b8)](https://git.io/streak-stats)
-
-<br/>
-
 </div>
