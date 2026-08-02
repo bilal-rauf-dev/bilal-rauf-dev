@@ -28,11 +28,11 @@ I'm a 2nd-year CS student at FAST NUCES with a CGPA of 3.53, focused on full-sta
 
 Full-stack hostel management platform featuring marketplace, maintenance tickets, events, lost & found, community discussions, notifications, and role-based administration. Built with a PostgreSQL backend using stored procedures, functions, and triggers to enforce business logic and automate workflows.
 
-### [TaskFlow API](https://github.com/bilal-rauf-dev/taskflow-api)
+### [TidyLine](https://github.com/bilal-rauf-dev/tidyline-web) · [Live](https://tidyline-web.vercel.app)
 
-`FastAPI` `Python` `PostgreSQL` `REST API` `JWT`
+`React` `Vite` `TailwindCSS`
 
-Backend task-management API built using FastAPI and PostgreSQL. Implemented authentication, authorization, CRUD operations, database relationships, input validation, and RESTful endpoints. Demonstrates backend architecture, API design, and database integration skills.
+Task-management web app built using React.js. Organizes deadlines into intuitive time-boxes with multi-reminder support.
 
 ### [Stack Sense](https://github.com/Build-with-AI-FAST-CFD-26/ai-hackathon-submission-bz-force) · [Live](https://stack-sense.web.app)
 
