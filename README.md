@@ -1,11 +1,11 @@
 <div align="center">
 
-<br/>
-
-### Full-Stack Developer &nbsp;·&nbsp; CS Student @ FAST NUCES
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&pause=1200&color=3B82F6&center=true&vCenter=true&width=600&lines=Building+web+applications%2C+APIs%2C+and+AI+projects.;Next.js+%7C+FastAPI+%7C+PostgreSQL+%7C+React.;Open+to+internships.)](https://git.io/typing-svg)
-
+# Bilal Rauf
+ 
+**Full-Stack Developer &nbsp;·&nbsp; CS Student @ FAST NUCES**
+ 
+Building web applications, APIs, and applied AI projects with Next.js, FastAPI, and PostgreSQL.
+ 
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=3B82F6)](https://bilal-rauf-dev.github.io/Bilal-Rauf)&nbsp;
@@ -56,5 +56,8 @@ Built during a 24-hour Build with AI Hackathon where our team placed 5th overall
 ![JavaScript](https://img.shields.io/badge/JavaScript-0f172a?style=flat-square&logo=javascript&logoColor=F7DF1E)
 
 <br/>
-
+</div>
+<div align="center">
+Open to internships. Reach out via <a href="mailto:bilal.rauf2004@outlook.com">email</a>.
+ 
 </div>
