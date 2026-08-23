@@ -83,13 +83,15 @@ A deadline-first task manager that drops every task into an intuitive time-box �
 <tr>
 <td width="50%" valign="top">
 
-#### [Simply Sharp](https://github.com/bilal-rauf-dev/simply-sharp) &nbsp;·&nbsp; [Play](https://simply-sharp.vercel.app)
+#### [Simply Sharp](https://github.com/bilal-rauf-dev/simply-sharp-legacy) &nbsp;·&nbsp; [Play](https://simply-sharp.vercel.app)
 
 ![](https://img.shields.io/badge/Construct_2-DED8F7?style=flat-square)
 ![](https://img.shields.io/badge/HTML5-DED8F7?style=flat-square)
 ![](https://img.shields.io/badge/Game_Design-DED8F7?style=flat-square)
 
-An arcade shooter built end to end in Construct 2 and exported as a static HTML5 bundle — enemy waves, a coin economy tuned against enemy difficulty, and an in-game shop trading coins for health, damage, fire-rate, and ammo upgrades across level progression. Service worker for offline play. Still in beta.
+
+An arcade shooter built end to end in Construct 2 and exported as a static HTML5 bundle — enemy waves, a coin economy tuned against enemy difficulty, and an in-game shop trading coins for health, damage, fire-rate, and ammo upgrades across level progression. Service worker for offline play.
+> Legacy version - This version is no longer updated/maintained.
 
 </td>
 <td width="50%" valign="top">
