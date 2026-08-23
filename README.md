@@ -8,7 +8,7 @@ Building web applications, APIs, and applied AI projects with Next.js, FastAPI, 
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5A36?style=for-the-badge&logo=vercel&logoColor=F2F0EC)](https://bilal-rauf-dev.github.io/Bilal-Rauf)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5A36?style=for-the-badge&logo=vercel&logoColor=F2F0EC)](https://bilal-rauf.vercel.app)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-141416?style=for-the-badge&logo=linkedin&logoColor=FF5A36)](https://linkedin.com/in/bilal-rauf-dev)&nbsp;
 [![Email](https://img.shields.io/badge/Email-141416?style=for-the-badge&logo=microsoftoutlook&logoColor=FF5A36)](mailto:bilal.rauf2004@outlook.com)
 
@@ -59,6 +59,7 @@ The full production website for a US performance-marketing agency, built end to 
 Full-stack hostel management platform spanning ten modules — dashboard, marketplace, maintenance tickets, lost & found, events, community discussions, guidebook, safety alerts, notifications, and role-based administration.
 
 The backend is the interesting part: a 15-table PostgreSQL schema written in raw SQL, with stored procedures, functions, triggers, and an explicit cursor pushing business logic into the database itself. 37 REST endpoints behind JWT auth, OTP verification, and bcrypt hashing.
+> Live link may not work due to resource limitations. 
 
 <br/>
 
@@ -83,7 +84,7 @@ A deadline-first task manager that drops every task into an intuitive time-box �
 <tr>
 <td width="50%" valign="top">
 
-#### [Simply Sharp](https://github.com/bilal-rauf-dev/simply-sharp-legacy) &nbsp;·&nbsp; [Play](https://simply-sharp.vercel.app)
+#### [Simply Sharp](https://github.com/bilal-rauf-dev/simply-sharp-legacy) &nbsp;·&nbsp; [Play](https://simply-sharp.vercel.app) &nbsp;·&nbsp; Legacy (Deprecated)
 
 ![](https://img.shields.io/badge/Construct_2-DED8F7?style=flat-square)
 ![](https://img.shields.io/badge/HTML5-DED8F7?style=flat-square)
@@ -91,7 +92,6 @@ A deadline-first task manager that drops every task into an intuitive time-box �
 
 
 An arcade shooter built end to end in Construct 2 and exported as a static HTML5 bundle — enemy waves, a coin economy tuned against enemy difficulty, and an in-game shop trading coins for health, damage, fire-rate, and ammo upgrades across level progression. Service worker for offline play.
-> Legacy version - This version is no longer updated/maintained.
 
 </td>
 <td width="50%" valign="top">
