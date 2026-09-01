@@ -96,7 +96,7 @@ An arcade shooter built end to end in Construct 2 and exported as a static HTML5
 </td>
 <td width="50%" valign="top">
 
-#### [TaskFlow API](https://github.com/bilal-rauf-dev/taskflow-api)
+#### [TaskFlow API](https://github.com/bilal-rauf-dev/taskflow-api) &nbsp;·&nbsp; [Live](https://taskflow-api-wheat-chi.vercel.app)
 
 ![](https://img.shields.io/badge/Node.js-D8EBF5?style=flat-square)
 ![](https://img.shields.io/badge/Express-D8EBF5?style=flat-square)
